@@ -21,7 +21,7 @@ Proporcione el numero de paginas del libro:800
 Proporcione el tipo de pasta del libro (S=Suave, D=Dura):Dura
 
 Libro Ficcion: Titulo: Las mil y una noches, Autor: Desconocido, Paginas: 1000, Precio: $500.00
-Libro Profesionak: Titulo: Java en 21 dias, Autor: Varios, Paginas: 800, Pasta: D, Precio: $850.00
+Libro Profesional: Titulo: Java en 21 dias, Autor: Varios, Paginas: 800, Pasta: D, Precio: $850.00
 ```
 
 ## Diagrama de clases
