@@ -7,13 +7,13 @@ public class LibroFiccion extends Libro {
         super( titulo, autor, numeroPaginas );
     }
 
-    // Implementar métodos de instancia precio
+    // Implementar metodos de instancia precio
     public double precio()
     {
         return 0.0;
     }
 
-    // Método toString()
+    // Metodo toString()
     public String toString()
     {
         String resultado = "Libro Ficcion: " + super.toString() + String.format( "" );

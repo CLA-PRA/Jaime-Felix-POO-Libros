@@ -10,18 +10,18 @@ Tu programa debería ejecutarse de la siguiente manera:
 Libros
 ======
 
-Libro de Ficción:
+Libro de Ficcion:
 Proporcione el titulo del libro:Las mil y una noches
 Proporcione el autor del libro:Desconocido
-Proporcione el número de páginas del libro:1000
+Proporcione el número de paginas del libro:1000
 Libro Profesional:
 Proporcione el titulo del libro:Java en 21 días
 Proporcione el autor del libro:Varios
-Proporcione el número de páginas del libro:800
+Proporcione el numero de paginas del libro:800
 Proporcione el tipo de pasta del libro (S=Suave, D=Dura):Dura
 
-Libro Ficcion: Titulo: Las mil y una noches, Autor: Desconocido, Páginas: 1000, Precio: $500.00
-Libro Profesionak: Titulo: Java en 21 días, Autor: Varios, Páginas: 800, Pasta: D, Precio: $850.00
+Libro Ficcion: Titulo: Las mil y una noches, Autor: Desconocido, Paginas: 1000, Precio: $500.00
+Libro Profesionak: Titulo: Java en 21 dias, Autor: Varios, Paginas: 800, Pasta: D, Precio: $850.00
 ```
 
 ## Diagrama de clases

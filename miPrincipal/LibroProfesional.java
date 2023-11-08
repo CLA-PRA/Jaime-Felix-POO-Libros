@@ -11,7 +11,7 @@ public class LibroProfesional extends Libro {
         setTipoPasta( tipoPasta );
     }
 
-    // Métodos set/get
+    // Metodos set/get
     public void setTipoPasta( char tipoPasta )
     {
         // El tipo de pasta debe ser S o D
@@ -23,13 +23,13 @@ public class LibroProfesional extends Libro {
         return 0;
     }
 
-    // Implementar métodos de instancia precio
+    // Implementar metodos de instancia precio
     public double precio()
     {
         return 0.0;
     }
 
-    // Método toString()
+    // Metodo toString()
     public String toString()
     {
         String resultado = "Libro Profesionak: " + super.toString() + String.format( "" );

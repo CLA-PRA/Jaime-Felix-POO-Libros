@@ -11,11 +11,11 @@ public class Principal {
 
         System.out.println();
 
-        // Libro de Ficción
-        System.out.println("Libro de Ficción:");
+        // Libro de Ficcion
+        System.out.println("Libro de Ficcion:");
         System.out.print("Proporcione el titulo del libro:");
         System.out.print("Proporcione el autor del libro:");
-        System.out.print("Proporcione el número de páginas del libro:");
+        System.out.print("Proporcione el numero de paginas del libro:");
 
         // Crear LibroFiccion
         Libro l1 = new LibroFiccion( titulo, autor, numeroPaginas );

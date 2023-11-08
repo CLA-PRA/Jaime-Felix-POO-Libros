@@ -14,7 +14,7 @@ public abstract class Libro {
         setNumeroPaginas( numeroPaginas );
     }
 
-    // Métodos set/get
+    // Metodos set/get
     public void setTitulo( String titulo )
     {
         // No hay nada que validar
@@ -27,7 +27,7 @@ public abstract class Libro {
 
     public void setNumeroPaginas( int numeroPaginas )
     {
-        // El número de páginas no debe ser negativo
+        // El numero de paginas no debe ser negativo
     }
 
     public String getTitulo()
@@ -45,10 +45,10 @@ public abstract class Libro {
         return 0;
     }
 
-    // Métodos de instancia
+    // Metodos de instancia
     public abstract double precio();
 
-    // Método toString()
+    // Metodo toString()
     public String toString()
     {
         String resultado = String.format("");
