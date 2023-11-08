@@ -32,7 +32,7 @@ public class LibroProfesional extends Libro {
     // Metodo toString()
     public String toString()
     {
-        String resultado = "Libro Profesionak: " + super.toString() + String.format( "" );
+        String resultado = "Libro Profesional: " + super.toString() + String.format( "" );
         return resultado;
     }
 }
