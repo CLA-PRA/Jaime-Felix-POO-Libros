@@ -15,7 +15,7 @@ Proporcione el titulo del libro:Las mil y una noches
 Proporcione el autor del libro:Desconocido
 Proporcione el numero de paginas del libro:1000
 Libro Profesional:
-Proporcione el titulo del libro:Java en 21 días
+Proporcione el titulo del libro:Java en 21 dias
 Proporcione el autor del libro:Varios
 Proporcione el numero de paginas del libro:800
 Proporcione el tipo de pasta del libro (S=Suave, D=Dura):Dura
