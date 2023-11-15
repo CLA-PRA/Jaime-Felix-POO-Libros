@@ -13,7 +13,7 @@ Libros
 Libro de Ficcion:
 Proporcione el titulo del libro:Las mil y una noches
 Proporcione el autor del libro:Desconocido
-Proporcione el número de paginas del libro:1000
+Proporcione el numero de paginas del libro:1000
 Libro Profesional:
 Proporcione el titulo del libro:Java en 21 días
 Proporcione el autor del libro:Varios
